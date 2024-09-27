@@ -28,3 +28,5 @@ E:\vs\projects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest\obj\Debug\net8.0\refi
 E:\vs\projects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest\obj\Debug\net8.0\WebAppAspMvcLibTest.pdb
 E:\vs\projects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest\obj\Debug\net8.0\WebAppAspMvcLibTest.genruntimeconfig.cache
 E:\vs\projects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest\obj\Debug\net8.0\ref\WebAppAspMvcLibTest.dll
+E:\vs\projects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest\obj\Debug\net8.0\WebAppAspMvcLibTest.csproj.AssemblyReference.cache
+E:\vs\projects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest\obj\Debug\net8.0\WebAppAspMvcLibTest.sourcelink.json

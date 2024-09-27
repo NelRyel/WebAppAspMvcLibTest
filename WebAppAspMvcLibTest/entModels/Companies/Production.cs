@@ -1,4 +1,6 @@
-﻿namespace WebAppAspMvcLibTest.entModels.Companies
+﻿using WebAppAspMvcLibTest.entModels.Products;
+
+namespace WebAppAspMvcLibTest.entModels.Companies
 {
     public class Production : Company
     {
