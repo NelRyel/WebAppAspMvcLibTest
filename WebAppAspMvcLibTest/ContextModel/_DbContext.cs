@@ -19,7 +19,7 @@ namespace WebAppAspMvcLibTest.ContextModel
         public DbSet<Distributer> Distributers { get; set; } = null!;
         public DbSet<Production> Productions { get; set; } = null!;
         public DbSet<Publisher> Publishers { get; set; } = null!;
-        public DbSet<Studio_Movie_Series_Animated> Studios { get; set; } = null;
+        public DbSet<Studio_Movie_Series_Animated> Studios { get; set; } = null!;
 
         public DbSet<Actor> Actors { get; set; } = null!;
         public DbSet<Author> Authors { get; set; } = null!;
@@ -30,7 +30,7 @@ namespace WebAppAspMvcLibTest.ContextModel
         public DbSet<Game> Games { get; set; } = null!;
         public DbSet<Movie> Movies { get; set; } = null!;
         public DbSet<Product> Products { get; set; } = null!;
-        public DbSet<Series> Series { get; set; } = null!;
+        public DbSet<Serial> Serials { get; set; } = null!;
 
 
 

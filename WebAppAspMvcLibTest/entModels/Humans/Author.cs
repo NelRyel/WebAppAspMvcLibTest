@@ -8,5 +8,7 @@ namespace WebAppAspMvcLibTest.entModels.Humans
     //автор сценария
     public class Author : Human
     {
+        public List<Movie> Movies { get; set; }
+        public List<Serial> Serials { get; set; }
     }
 }

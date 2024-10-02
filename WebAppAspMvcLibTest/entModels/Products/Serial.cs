@@ -5,7 +5,7 @@ using WebAppAspMvcLibTest.entModels.Humans;
 namespace WebAppAspMvcLibTest.entModels.Products
 { 
 
-    public class Series : Product
+    public class Serial : Product
     {
     public List<Director>? Directors { get; set; }
     public List<Producer>? Producers { get; set; }
