@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WebAppAspMvcLibTest.ContextModel;
+using WebAppAspMvcLibTest.entModels.Products;
 using WebAppAspMvcLibTest.Models;
 
 namespace WebAppAspMvcLibTest.Controllers
@@ -8,11 +9,11 @@ namespace WebAppAspMvcLibTest.Controllers
     public class HomeController : Controller
     {
 
-        _DbContext db;
-        public HomeController(_DbContext context)
-        {
-            db = context;
-        }
+        //_DbContext db;
+        //public HomeController(_DbContext context)
+        //{
+        //    db = context;
+        //}
 
         //public HomeController()
         //{
@@ -32,11 +33,24 @@ namespace WebAppAspMvcLibTest.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            using (_DbContext db = new _DbContext())
+            {
+                Game g = new Game();
+                g.Name = "Nier: Automata";
+                db.Games.Add(g);
+                db.SaveChanges();
+
+            }
+
         }
 
         public IActionResult Index()
         {
-            return View();
+            using(_DbContext db = new _DbContext())
+            {
+                return View(db.Games.ToList());
+            }
+            //return View();
         }
 
         public IActionResult Privacy()
