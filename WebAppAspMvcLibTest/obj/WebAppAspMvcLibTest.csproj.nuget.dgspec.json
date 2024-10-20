@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj": {}
+    "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj": {}
   },
   "projects": {
-    "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj": {
+    "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
+        "projectUniqueName": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
         "projectName": "WebAppAspMvcLibTest",
-        "projectPath": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\obj\\",
+        "projectPath": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
+        "packagesPath": "C:\\Users\\vivit\\.nuget\\packages\\",
+        "outputPath": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\vs\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vivit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

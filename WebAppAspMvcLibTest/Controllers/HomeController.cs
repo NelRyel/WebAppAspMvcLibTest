@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using WebAppAspMvcLibTest.ContextModel;
+using WebAppAspMvcLibTest.entModels.GenresModel;
 using WebAppAspMvcLibTest.entModels.Products;
 using WebAppAspMvcLibTest.Models;
 
@@ -35,10 +37,34 @@ namespace WebAppAspMvcLibTest.Controllers
             _logger = logger;
             using (_DbContext db = new _DbContext())
             {
-                Game g = new Game();
-                g.Name = "Nier: Automata";
-                db.Games.Add(g);
+                //Game game = new Game();
+                //game.Name = "Nier: Automata";
+                //game.ReleasYear = 2017;
+                //db.Games.Add(game);
+
+                //GameGenre gameGenre = new GameGenre();
+                //gameGenre.Name = "Action";
+                //db.GamesGenres.Add(gameGenre);
+
+                Game game = db.Games.Include(s => s.GameGenres).FirstOrDefault()!;
+                GameGenre gameGenre = db.GamesGenres.FirstOrDefault()!;
+
+               // game.GameGenres.Add(gameGenre);
+               
+                //game.GameGenres.Add(gameGenre);
+
+
+
                 db.SaveChanges();
+
+                Console.WriteLine( game.Name + " " + gameGenre.Name  );
+                
+                
+                //g.Genres.Add(gameGenre);
+                //db.SaveChanges();
+
+               // Console.WriteLine( db.Genres.FirstOrDefault().Name);
+                
 
             }
 
@@ -48,7 +74,7 @@ namespace WebAppAspMvcLibTest.Controllers
         {
             using(_DbContext db = new _DbContext())
             {
-                return View(db.Games.ToList());
+                return View(db.Products.ToList());
             }
             //return View();
         }

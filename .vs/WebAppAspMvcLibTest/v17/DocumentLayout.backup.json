@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\generalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\generalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\contextmodel\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\contextmodel\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Movie_Series_Anime_Genre.cs",
               "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GeneralGenre.cs",
               "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
@@ -161,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "_DbContext.cs",
               "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
@@ -174,13 +174,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T17:49:22.647Z",
               "EditorCaption": ""

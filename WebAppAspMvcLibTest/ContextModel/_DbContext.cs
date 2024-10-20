@@ -10,7 +10,7 @@ namespace WebAppAspMvcLibTest.ContextModel
     public class _DbContext : DbContext
     {
 
-        public DbSet<GeneralGenre> Genres { get; set; } = null!;
+        public DbSet<GeneralGenre> GeneralGenres { get; set; } = null!;
         public DbSet<GameGenre> GamesGenres { get; set; } = null!;
         public DbSet<Movie_Series_Anime_Genre> MoviesGenres { get; set; } = null!;
 
@@ -40,7 +40,7 @@ namespace WebAppAspMvcLibTest.ContextModel
 
         public _DbContext()
         {
-            Database.EnsureDeleted();
+            //Database.EnsureDeleted();
             Database.EnsureCreated();
 
         }

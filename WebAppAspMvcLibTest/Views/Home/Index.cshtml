@@ -6,4 +6,16 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 <p> HELLO EPTA</p>
+
+    <table class="table">
+        <tr><th>ID</th><th>Title</th></tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </table>
+
 </div>

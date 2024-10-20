@@ -11,7 +11,7 @@ namespace WebAppAspMvcLibTest.entModels.Products
         public int? DeveloperId { get; set; }
         public Developer? Developer { get; set; }
 
-        public List<GameGenre>? Genres { get; set; }
+        public List<GameGenre> GameGenres { get; set; }
 
     }
 }
