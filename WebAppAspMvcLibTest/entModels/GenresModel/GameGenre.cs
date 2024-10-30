@@ -7,6 +7,6 @@ namespace WebAppAspMvcLibTest.entModels.GenresModel
 {
     public class GameGenre : GeneralGenre
     {
-        public List<Game>? Games { get; set; }
+        public List<Game>? Games { get; set; } = new();
     }
 }

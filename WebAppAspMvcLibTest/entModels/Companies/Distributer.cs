@@ -4,8 +4,8 @@ namespace WebAppAspMvcLibTest.entModels.Companies
 {
     public class Distributer : Company
     {
-        public List<Movie> Movies { get; set; }
-        public List<Serial> Serials { get; set; }
+        public List<Movie> Movies { get; set; } = new();
+        public List<Serial> Serials { get; set; } = new();
 
     }
 }

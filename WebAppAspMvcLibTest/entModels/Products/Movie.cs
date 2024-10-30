@@ -9,9 +9,9 @@ namespace WebAppAspMvcLibTest.entModels.Products
         public List<Director>? Directors { get; set; }
         public List<Producer>? Producers { get; set; }
         public List<Actor>? Actors { get; set; }
-        public List<Production>? Productions { get; set; }
-        public List<Distributer>? Distributors { get; set; }
-        public List<Movie_Series_Anime_Genre>? Genres { get; set; }
+        public List<Production>? Productions { get; set; } = new();
+        public List<Distributer>? Distributors { get; set; } = new();
+        public List<Movie_Series_Anime_Genre>? Genres { get; set; } = new();
         public int? RunnigTime { get; set; }
 
 

@@ -7,13 +7,13 @@ namespace WebAppAspMvcLibTest.entModels.Products
 
     public class Serial : Product
     {
-    public List<Director>? Directors { get; set; }
-    public List<Producer>? Producers { get; set; }
-    public List<Actor>? Actors { get; set; }
-    public List<Production>? Productions { get; set; }
-    public List<Distributer>? Distributors { get; set; }
-    public List<Movie_Series_Anime_Genre>? Genres { get; set; }
-    public int? RunnigTime { get; set; }
+        public List<Director>? Directors { get; set; } = new();
+        public List<Producer>? Producers { get; set; } = new();
+        public List<Actor>? Actors { get; set; } = new();
+        public List<Production>? Productions { get; set; } = new();
+        public List<Distributer>? Distributors { get; set; } = new();
+        public List<Movie_Series_Anime_Genre>? Genres { get; set; } = new();
+        public int? RunnigTime { get; set; }
 
     }
 
