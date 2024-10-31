@@ -34,6 +34,9 @@ namespace WebAppAspMvcLibTest.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //MyDefaultInit defaultInit = new MyDefaultInit();
+            //defaultInit.CreateGenres();
+            //defaultInit.CreateMovieGenres();
             _logger = logger;
             using (_DbContext db = new _DbContext())
             {
@@ -46,26 +49,27 @@ namespace WebAppAspMvcLibTest.Controllers
                 //gameGenre.Name = "Action";
                 //db.GamesGenres.Add(gameGenre);
 
-                Game game = db.Games.Include(s => s.GameGenres).FirstOrDefault()!;
-                GameGenre gameGenre = db.GamesGenres.FirstOrDefault()!;
+                //Game game = db.Games.Include(s => s.GameGenres).FirstOrDefault()!;
+                // GameGenre gameGenre = db.GamesGenres.FirstOrDefault()!;
 
-               // game.GameGenres.Add(gameGenre);
-               
+                // game.GameGenres.Add(gameGenre);
+
                 //game.GameGenres.Add(gameGenre);
 
 
 
-                db.SaveChanges();
+                //db.SaveChanges();
 
-                Console.WriteLine( game.Name + " " + gameGenre.Name  );
-                
-                
+                //Console.WriteLine( game.Name + " " + gameGenre.Name  );
+
+
                 //g.Genres.Add(gameGenre);
                 //db.SaveChanges();
 
-               // Console.WriteLine( db.Genres.FirstOrDefault().Name);
-                
+                // Console.WriteLine( db.Genres.FirstOrDefault().Name);
+               
 
+                Console.WriteLine(  "HELLO IN HOMECONTROLLER");
             }
 
         }
@@ -74,7 +78,7 @@ namespace WebAppAspMvcLibTest.Controllers
         {
             using(_DbContext db = new _DbContext())
             {
-                return View(db.Products.ToList());
+                return View(db.GeneralGenres.ToList());
             }
             //return View();
         }

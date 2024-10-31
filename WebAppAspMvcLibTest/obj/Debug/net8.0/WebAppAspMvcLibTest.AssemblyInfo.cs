@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppAspMvcLibTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd395366004ff36786e354edf3dc813cf3e5c4e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db5252d931146f2c2ec04afd935ad8275a9e184e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppAspMvcLibTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppAspMvcLibTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
