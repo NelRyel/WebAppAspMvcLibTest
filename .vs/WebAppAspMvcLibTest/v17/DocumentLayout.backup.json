@@ -146,8 +146,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAgwCQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:49:22.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T17:49:22.647Z"
             },
             {
               "$type": "Document",
@@ -159,8 +158,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:01:08.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T19:01:08.011Z"
             },
             {
               "$type": "Document",
@@ -172,8 +170,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:01:14.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T19:01:14.101Z"
             },
             {
               "$type": "Document",
@@ -185,8 +182,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:01:09.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T19:01:09.443Z"
             },
             {
               "$type": "Document",
@@ -198,8 +194,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:52:37.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T17:52:37.186Z"
             },
             {
               "$type": "Document",
@@ -223,8 +218,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:53:30.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T17:53:30.395Z"
             },
             {
               "$type": "Document",
@@ -236,8 +230,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:53:42.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T17:53:42.118Z"
             },
             {
               "$type": "Document",
@@ -249,8 +242,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:32:41.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:32:41.677Z"
             },
             {
               "$type": "Document",
@@ -260,7 +252,7 @@
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-20T17:52:54.221Z",
               "EditorCaption": ""
@@ -311,8 +303,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwCIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:46:02.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:46:02.726Z"
             },
             {
               "$type": "Document",
@@ -384,8 +375,7 @@
               "RelativeToolTip": "WebAppAspMvcLibTest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:48:38.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:48:38.578Z"
             },
             {
               "$type": "Document",
