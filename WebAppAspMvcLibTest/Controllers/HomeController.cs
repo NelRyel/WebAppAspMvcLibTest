@@ -78,7 +78,7 @@ namespace WebAppAspMvcLibTest.Controllers
         {
             using(_DbContext db = new _DbContext())
             {
-                return View(db.GeneralGenres.ToList());
+                return View(db.Products.ToList());
             }
             //return View();
         }
