@@ -1,141 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\",
+  "WorkspaceRootPath": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\company\\addcompany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\company\\addcompany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\cruds\\_crudcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\cruds\\_crudcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\cruds\\_crudcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\companies\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\studio_movie_series_animated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\studio_movie_series_animated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\companies\\studio_movie_series_animated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\companies\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\companies\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\distributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\distributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\companies\\distributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\webappaspmvclibtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\webappaspmvclibtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\webappaspmvclibtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\contextmodel\\mydefaultinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\contextmodel\\mydefaultinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\contextmodel\\mydefaultinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\products\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\serial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\serial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\products\\serial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\contextmodel\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\contextmodel\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\contextmodel\\_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\movie_series_anime_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\generalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\generalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\generalgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\genresmodel\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\genresmodel\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\humans\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\humans\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\humans\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\humans\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\humans\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\humans\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|c:\\sharpprojects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|e:\\vs\\projects\\asp\\webappaspmvclibtest\\webappaspmvclibtest\\entmodels\\products\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A61BA7-04D2-46E7-9E40-E355581C734B}|WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj|solutionrelative:webappaspmvclibtest\\entmodels\\products\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -146,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,143 +170,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AddCompany.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Company\\AddCompany.cshtml",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Company\\AddCompany.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Company\\AddCompany.cshtml",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Company\\AddCompany.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T12:22:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Company\\Index.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Company\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Company\\Index.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Company\\Index.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Company\\Index.cshtml",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Company\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-18T17:15:31.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T17:11:10.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T17:11:09.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:08:10.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CompanyController.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\CompanyController.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Controllers\\CompanyController.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T17:06:47.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T16:57:20.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-18T16:57:18.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwFEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:49:22.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-20T17:52:54.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Program.cs",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Program.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Program.cs",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:48:38.578Z",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T16:57:20.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-18T17:11:11.529Z",
               "EditorCaption": ""
@@ -310,23 +262,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-20T17:52:56.87Z",
+              "Title": "_CrudCompanies.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:24:18.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:08:10.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:11:09.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T17:11:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:49:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Program.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Program.cs",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:48:38.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebAppAspMvcLibTest\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T17:52:56.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Developer.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Developer.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Developer.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Companies\\Developer.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Developer.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Developer.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Companies\\Developer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,11 +358,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Company.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Company.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Company.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Companies\\Company.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Company.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Company.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Companies\\Company.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +370,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Distributer.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Distributer.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Distributer.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Companies\\Distributer.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Distributer.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Distributer.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Companies\\Distributer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,11 +382,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Production.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Production.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Production.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Companies\\Production.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Production.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Production.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Companies\\Production.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,11 +394,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,11 +406,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Publisher.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Publisher.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Companies\\Publisher.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Publisher.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Publisher.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Companies\\Publisher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,24 +418,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_CrudCompanies.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
-              "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
-              "RelativeToolTip": "WebAppAspMvcLibTest\\CRUDs\\_CrudCompanies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:24:18.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Studio_Movie_Series_Animated.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Studio_Movie_Series_Animated.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Studio_Movie_Series_Animated.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Companies\\Studio_Movie_Series_Animated.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Studio_Movie_Series_Animated.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Companies\\Studio_Movie_Series_Animated.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Companies\\Studio_Movie_Series_Animated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "WebAppAspMvcLibTest.csproj",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
               "RelativeToolTip": "WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -431,11 +442,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,11 +454,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_DbContext.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\ContextModel\\_DbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,11 +466,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "GameGenre.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GameGenre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,11 +478,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Movie_Series_Anime_Genre.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\GenresModel\\Movie_Series_Anime_Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,11 +490,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "GeneralGenre.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\GenresModel\\GeneralGenre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,11 +502,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Serial.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Serial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,11 +514,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "MyDefaultInit.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\ContextModel\\MyDefaultInit.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -515,11 +526,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Actor.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Actor.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Humans\\Actor.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Actor.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Actor.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Humans\\Actor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,11 +538,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Author.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Author.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Author.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Humans\\Author.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Author.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Author.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Humans\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,11 +550,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Director.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Director.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Director.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Humans\\Director.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Director.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Director.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Humans\\Director.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,11 +562,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Human.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Human.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Human.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Humans\\Human.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Human.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Human.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Humans\\Human.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,11 +574,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Producer.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Producer.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Producer.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Humans\\Producer.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Producer.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Humans\\Producer.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Humans\\Producer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,11 +586,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Movie.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Movie.cs",
               "RelativeDocumentMoniker": "WebAppAspMvcLibTest\\entModels\\Products\\Movie.cs",
-              "ToolTip": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Movie.cs",
+              "ToolTip": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\entModels\\Products\\Movie.cs",
               "RelativeToolTip": "WebAppAspMvcLibTest\\entModels\\Products\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

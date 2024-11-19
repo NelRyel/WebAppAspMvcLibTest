@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebAppAspMvcLibTest.ContextModel;
 
+
 namespace WebAppAspMvcLibTest.Controllers
 {
     public class CompanyController : Controller
@@ -14,5 +15,12 @@ namespace WebAppAspMvcLibTest.Controllers
 
             //return View();
         }
+
+        public IActionResult AddCompany()
+        {
+            return View();
+        }
+
+        public 
     }
 }

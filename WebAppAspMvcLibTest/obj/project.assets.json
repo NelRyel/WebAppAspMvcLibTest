@@ -1186,19 +1186,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vivit\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "E:\\vs\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
+      "projectUniqueName": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
       "projectName": "WebAppAspMvcLibTest",
-      "projectPath": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
-      "packagesPath": "C:\\Users\\vivit\\.nuget\\packages\\",
-      "outputPath": "C:\\sharpProjects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\obj\\",
+      "projectPath": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\vs\\projects\\asp\\WebAppAspMvcLibTest\\WebAppAspMvcLibTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\vs\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vivit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1254,7 +1259,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
