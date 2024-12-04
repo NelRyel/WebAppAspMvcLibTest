@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\sharpProjects\asp\WebAppAspMvcLibTest\WebAppAspMvcLibTest
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/sharpProjects/asp/WebAppAspMvcLibTest/WebAppAspMvcLibTest/Views/Company/AddViewCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxBZGRWaWV3Q29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/sharpProjects/asp/WebAppAspMvcLibTest/WebAppAspMvcLibTest/Views/Company/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebAppAspMvcLibTest.ContextModel;
+using WebAppAspMvcLibTest.entModels.Companies;
 
 namespace WebAppAspMvcLibTest.Controllers
 {
@@ -13,6 +14,21 @@ namespace WebAppAspMvcLibTest.Controllers
             }
 
             //return View();
+        }
+
+        public IActionResult AddViewCompany()
+        {
+            return View();
+        }
+
+        public async Task<IActionResult> CreateCompany(Company company)
+        {
+            using (var db = new _DbContext()) {
+                db.Companies.Add(company);
+                await db.SaveChangesAsync();
+                return RedirectToAction("Index");
+            
+            }
         }
     }
 }
