@@ -3,8 +3,8 @@
 }
 
 <div class="text-center">
+    
 <p> HELLO Company</p>
-<<<<<<< HEAD
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
         <div class="container-fluid">
             @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebAppAspMvcLibTest</a> *@
@@ -22,23 +22,11 @@
             </div>
         </div>
     </nav>
-=======
-
-    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-        <ul class="navbar-nav flex-grow-1">
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Company" asp-action="AddCompany">Add Company</a>
-            </li>
-        </ul>
-    </div>
-
->>>>>>> 40bd2797b26956c744125358a9a7735add3a7053
     <table class="table">
-        <tr><th></th><th>ID</th><th>Title</th><th>Type</th></tr>
+        <tr><th>ID</th><th>Title</th><th>Type</th></tr>
         @foreach (var item in Model)
         {
             <tr>
-                <td><input type="checkbox" name="checkboxes"/> </td>
                 <td>@item.Id</td>
                 <td>@item.Name</td>
                 <td>@item.GetType().ToString()</td>
