@@ -1,7 +1,7 @@
 ﻿@model WebAppAspMvcLibTest.entModels.Companies.Company
 
 <h2>Добавление компании</h2>
-<form asp-action="CreateCompany" asp-controller="Company">
+<form asp-action="CreateCompany" asp-controller="Company" method="post">
     <p>
         <label asp-for="Name">Имя</label><br />
         <input type="text" asp-for="Name" />
@@ -12,7 +12,7 @@
     </p>
     <p>
         <label>Выберите тип компании:</label>
-        <select name="compTypeSelect">
+        <select name="compTypeSelect" id="IdCompTypeSelect">
             <option value="1">Company</option>
             <option value="2">Developer</option>
             <option value="3">Distrtibuter</option>

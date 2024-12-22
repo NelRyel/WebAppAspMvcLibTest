@@ -1,13 +1,13 @@
 ﻿using WebAppAspMvcLibTest.ContextModel;
 using WebAppAspMvcLibTest.entModels.Companies;
 
-namespace WebAppAspMvcLibTest.CRUDs
+namespace WebAppAspMvcLibTest.CRUDs.CdudCompanies
 {
-    public class _CrudCompanies
+    public class _CrudDeveloper: _CrudCompany
     {
-        public void CreateDeveloper(string name)
+        public override void CreateCompany(string name)
         {
-            using(_DbContext db =  new _DbContext())
+            using (_DbContext db = new _DbContext())
             {
                 Developer developer = new Developer();
                 developer.Name = name;
@@ -15,15 +15,16 @@ namespace WebAppAspMvcLibTest.CRUDs
                 db.SaveChanges();
             }
         }
-        public void UpdateDeveloper(string name, int id) 
+        public void UpdateDeveloper(string name, int id)
         {
-            using (_DbContext db = new _DbContext()) {
+            using (_DbContext db = new _DbContext())
+            {
                 Developer developer = db.Developers.Find(id);
                 developer.Name = name;
                 db.SaveChanges();
             }
         }
-        public void DeleteDeveloper(int id) 
+        public void DeleteDeveloper(int id)
         {
             using (_DbContext db = new _DbContext())
             {
