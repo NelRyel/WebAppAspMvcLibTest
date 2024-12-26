@@ -8,13 +8,34 @@ namespace WebAppAspMvcLibTest.Controllers
 {
     public class CompanyController : Controller
     {
-        public IActionResult Index()
+
+        public IActionResult Index(int NamecompTypeSelectIndex)
         {
+            #region // тесты тесты
+            //using (_DbContext db = new _DbContext())
+            //{
+            //    Company company = db.Companies.Find(2);
+            //    //company.Name = "changedNameFromComp";
+            //    //db.SaveChanges();
+            //    company.Name = "newNameTestDb111";
+            //    Console.WriteLine("+++++++++++++");
+            //    Console.WriteLine(company.Name);
+            //    Console.WriteLine("+++++++++++++");
+            //    db.SaveChanges();
+
+            //}
+            //_CrudDeveloper cd = new _CrudDeveloper();
+            //cd.UpdateCompany("UpdatecrudTestDevComp", 9);
+            #endregion
+            Console.WriteLine("+++++++++++++");
+            Console.WriteLine(NamecompTypeSelectIndex.ToString());
+            Console.WriteLine("+++++++++++++");
             using (_DbContext db = new _DbContext())
             {
                 return View(db.Companies.ToList());
             }
 
+            
             //return View();
         }
 
@@ -24,7 +45,7 @@ namespace WebAppAspMvcLibTest.Controllers
         }
 
 
-        delegate void CompaniesDelegate();
+
 
         [HttpPost]
         public async Task<IActionResult> CreateCompany(Company company, int compTypeSelect)
@@ -42,35 +63,27 @@ namespace WebAppAspMvcLibTest.Controllers
                     c.CreateCompany(company.Name);
                     break;
                 case 2: _CrudDeveloper d = new _CrudDeveloper();
-                    d.CreateDeveloper(company.Name);
+                    d.CreateCompany(company.Name);
                     break;
                 case 3: _CrudDistributer dis = new _CrudDistributer();
-                    dis.CreateDistributer(company.Name);
+                    dis.CreateCompany(company.Name);
                     break;
                 case 4: _CrudProduction prod = new _CrudProduction();
-                    prod.CreateProduction(company.Name);
+                    prod.CreateCompany(company.Name);
                     break;
                 case 5: _CrudPublisher pub = new _CrudPublisher();
-                    pub.CreatePublisher(company.Name);
+                    pub.CreateCompany(company.Name);
                     break;
                 case 6:_CrudStudio_Movie_Series_Animated st = new _CrudStudio_Movie_Series_Animated();
-                    st.CreateStudio_Movie_Series_Animated(company.Name);
+                    st.CreateCompany(company.Name);
                     break;
                 default:
-                    Console.WriteLine( "WROG CHOSE IN CREATE COMPANY");
+                    Console.WriteLine( "WRONG CHOSE IN CREATE COMPANY");
                     break;
 
             }
             return RedirectToAction("Index");
-            //Console.WriteLine("HELLO INT CREATE COMPANY");
-            //Console.WriteLine( compTypeSelect.ToString() );
-            //using (var db = new _DbContext()) {
-            //   // db.Companies.Add(company);
-            //    //await db.SaveChangesAsync();
-
-            //    return RedirectToAction("Index");
-            
-            //}
+           
         }
     }
 }
