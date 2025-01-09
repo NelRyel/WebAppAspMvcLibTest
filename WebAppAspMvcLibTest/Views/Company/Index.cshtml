@@ -24,20 +24,19 @@
     </nav>
 
     <div style="margin-right: 70%">
-    <label>Выберите тип компании:</label>
+        <label>Выберите тип компании:</label>
         <select name="NamecompTypeSelectIndex" id="IdcompTypeSelectIndex">
-        <option value="1">Company</option>
-        <option value="2">Developer</option>
-        <option value="3">Distrtibuter</option>
-        <option value="4">Production</option>
-        <option value="5">Publisher</option>
-        <option value="6">Studio</option>
-
-    </select>
+            <option value="1">Company</option>
+            <option value="2">Developer</option>
+            <option value="3">Distrtibuter</option>
+            <option value="4">Production</option>
+            <option value="5">Publisher</option>
+            <option value="6">Studio</option>
+        </select>
     </div>
 
     <div id="myResultContent">
-    <table class="table">
+    <table class="table" id="tableTable">
         <tr><th>ID</th><th>Title</th><th>Type</th></tr>
         @foreach (var item in Model)
         {
@@ -53,3 +52,26 @@
    
     </div>
 </div>
+
+@section scripts{
+    <script type="text/javascript">
+        $(function () {
+
+            $('#IdcompTypeSelectIndex').change(function () {
+                // получаем выбранный id
+                var id = $(this).val();
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("GetItems")/' + id,
+                    success: function (data) {
+
+                        // заменяем содержимое присланным частичным представлением
+                        $('#tableTable').replaceWith(data);
+                    }
+                });
+            });
+        })
+    </script>
+
+
+}

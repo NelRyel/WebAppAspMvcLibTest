@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using WebAppAspMvcLibTest.ContextModel;
 using WebAppAspMvcLibTest.CRUDs.CdudCompanies;
 using WebAppAspMvcLibTest.entModels.Companies;
+using WebAppAspMvcLibTest.entModels.Products;
 
 
 namespace WebAppAspMvcLibTest.Controllers
@@ -30,13 +32,48 @@ namespace WebAppAspMvcLibTest.Controllers
             Console.WriteLine("+++++++++++++");
             Console.WriteLine(NamecompTypeSelectIndex.ToString());
             Console.WriteLine("+++++++++++++");
+            
+            int selectedIndex = 1;
+
+            List<string> compTypesList = new List<string>() { "Company", "Developer", "Distributer", "Production", "Publisher", "Studio" };
+            SelectList types = new SelectList(compTypesList, "Id", "Name", selectedIndex);
+            ViewBag.Types = types;
             using (_DbContext db = new _DbContext())
             {
+                //var a = db.Companies.ToList();
+                //return View(a.OfType<Developer>());
+                
                 return View(db.Companies.ToList());
             }
 
-            
             //return View();
+        }
+        public IActionResult GetItems(int id)
+        {
+            using (_DbContext db = new _DbContext())
+            {
+                var a = db.Companies.ToList();
+                switch (id)
+                {
+                    case 1: return PartialView(a);
+                        break;
+                    case 2: return PartialView(a.OfType<Developer>());
+                        break;
+                    case 3: return PartialView(a.OfType<Distributer>());
+                        break;
+                    case 4: return PartialView(a.OfType<Production>());
+                        break;
+                    case 5: return PartialView(a.OfType<Publisher>());
+                        break;
+                    case 6: return PartialView(a.OfType<Studio_Movie_Series_Animated>());
+                        break;
+                    default: return View("NOTHING HERE");
+                }
+                
+                //return PartialView(a.oftype<developer>());
+                //return view(db.companies.tolist());
+            }
+            //return PartialView();
         }
 
         public IActionResult AddViewCompany()
