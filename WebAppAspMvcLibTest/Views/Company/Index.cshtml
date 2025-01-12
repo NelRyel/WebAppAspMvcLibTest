@@ -20,10 +20,14 @@
                    
                 </ul>
             </div>
+           
         </div>
     </nav>
 
     <div style="margin-right: 70%">
+        <form method="get">
+            <label>Name: </label>
+            <input name="name" value="" />
         <label>Выберите тип компании:</label>
         <select name="NamecompTypeSelectIndex" id="IdcompTypeSelectIndex">
             <option value="1">Company</option>
@@ -33,6 +37,8 @@
             <option value="5">Publisher</option>
             <option value="6">Studio</option>
         </select>
+        <input type="submit" value="filtr"/>
+        </form>
     </div>
 
     <div id="myResultContent">
@@ -53,25 +59,3 @@
     </div>
 </div>
 
-@section scripts{
-    <script type="text/javascript">
-        $(function () {
-
-            $('#IdcompTypeSelectIndex').change(function () {
-                // получаем выбранный id
-                var id = $(this).val();
-                $.ajax({
-                    type: 'GET',
-                    url: '@Url.Action("GetItems")/' + id,
-                    success: function (data) {
-
-                        // заменяем содержимое присланным частичным представлением
-                        $('#tableTable').replaceWith(data);
-                    }
-                });
-            });
-        })
-    </script>
-
-
-}

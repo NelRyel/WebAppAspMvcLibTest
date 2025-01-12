@@ -10,8 +10,8 @@ namespace WebAppAspMvcLibTest.Controllers
 {
     public class CompanyController : Controller
     {
-
-        public IActionResult Index(int NamecompTypeSelectIndex)
+        [HttpGet]
+        public IActionResult Index(int NamecompTypeSelectIndex = 1, string name = "")
         {
             #region // тесты тесты
             //using (_DbContext db = new _DbContext())
@@ -33,48 +33,71 @@ namespace WebAppAspMvcLibTest.Controllers
             Console.WriteLine(NamecompTypeSelectIndex.ToString());
             Console.WriteLine("+++++++++++++");
             
-            int selectedIndex = 1;
+            //int selectedIndex = 1;
 
-            List<string> compTypesList = new List<string>() { "Company", "Developer", "Distributer", "Production", "Publisher", "Studio" };
-            SelectList types = new SelectList(compTypesList, "Id", "Name", selectedIndex);
-            ViewBag.Types = types;
+            //List<string> compTypesList = new List<string>() { "Company", "Developer", "Distributer", "Production", "Publisher", "Studio" };
+            //SelectList types = new SelectList(compTypesList, "Id", "Name", selectedIndex);
+            //ViewBag.Types = types;
             using (_DbContext db = new _DbContext())
             {
                 //var a = db.Companies.ToList();
                 //return View(a.OfType<Developer>());
-                
-                return View(db.Companies.ToList());
+                var a = db.Companies.ToList();
+                switch (NamecompTypeSelectIndex)
+                {
+                    case 1:
+                        return View(a);
+                        break;
+                    case 2:
+                        return View(a.OfType<Developer>());
+                        break;
+                    case 3:
+                        return View(a.OfType<Distributer>());
+                        break;
+                    case 4:
+                        return View(a.OfType<Production>());
+                        break;
+                    case 5:
+                        return View(a.OfType<Publisher>());
+                        break;
+                    case 6:
+                        return View(a.OfType<Studio_Movie_Series_Animated>());
+                        break;
+                    default: return View("NOTHING HERE");
+                }
+
+               // return View(db.Companies.ToList());
             }
 
             //return View();
         }
-        public IActionResult GetItems(int id)
-        {
-            using (_DbContext db = new _DbContext())
-            {
-                var a = db.Companies.ToList();
-                switch (id)
-                {
-                    case 1: return PartialView(a);
-                        break;
-                    case 2: return PartialView(a.OfType<Developer>());
-                        break;
-                    case 3: return PartialView(a.OfType<Distributer>());
-                        break;
-                    case 4: return PartialView(a.OfType<Production>());
-                        break;
-                    case 5: return PartialView(a.OfType<Publisher>());
-                        break;
-                    case 6: return PartialView(a.OfType<Studio_Movie_Series_Animated>());
-                        break;
-                    default: return View("NOTHING HERE");
-                }
+        //public IActionResult GetItems(int id)
+        //{
+        //    using (_DbContext db = new _DbContext())
+        //    {
+        //        var a = db.Companies.ToList();
+        //        switch (id)
+        //        {
+        //            case 1: return PartialView(a);
+        //                break;
+        //            case 2: return PartialView(a.OfType<Developer>());
+        //                break;
+        //            case 3: return PartialView(a.OfType<Distributer>());
+        //                break;
+        //            case 4: return PartialView(a.OfType<Production>());
+        //                break;
+        //            case 5: return PartialView(a.OfType<Publisher>());
+        //                break;
+        //            case 6: return PartialView(a.OfType<Studio_Movie_Series_Animated>());
+        //                break;
+        //            default: return PartialView("NOTHING HERE");
+        //        }
                 
-                //return PartialView(a.oftype<developer>());
-                //return view(db.companies.tolist());
-            }
-            //return PartialView();
-        }
+        //        //return PartialView(a.oftype<developer>());
+        //        //return view(db.companies.tolist());
+        //    }
+        //    //return PartialView();
+        //}
 
         public IActionResult AddViewCompany()
         {
